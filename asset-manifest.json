@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TranzSwift/static/css/main.1b8fbfcc.css",
+    "main.js": "/TranzSwift/static/js/main.298ce1b6.js",
+    "static/js/451.c37803dd.chunk.js": "/TranzSwift/static/js/451.c37803dd.chunk.js",
+    "index.html": "/TranzSwift/index.html",
+    "main.1b8fbfcc.css.map": "/TranzSwift/static/css/main.1b8fbfcc.css.map",
+    "main.298ce1b6.js.map": "/TranzSwift/static/js/main.298ce1b6.js.map",
+    "451.c37803dd.chunk.js.map": "/TranzSwift/static/js/451.c37803dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8fbfcc.css",
+    "static/js/main.298ce1b6.js"
+  ]
+}
